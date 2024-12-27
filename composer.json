@@ -1,0 +1,12 @@
+{
+    "require-dev": {
+        "shipmonk/dead-code-detector": "0.7.0",
+        "phpstan/extension-installer": "1.4.3",
+        "phpstan/phpstan": "2.0.4"
+    },
+    "config": {
+        "allow-plugins": {
+            "phpstan/extension-installer": true
+        }
+    }
+}

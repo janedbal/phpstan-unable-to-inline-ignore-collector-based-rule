@@ -1,4 +1,4 @@
-## PHPStan issue: inline ignores of collectotor-based rules causing false positive of unmatched ignore
+## PHPStan issue: inline ignores of collector-based rules causing false positive of unmatched ignore
 
 How to reproduce:
 
